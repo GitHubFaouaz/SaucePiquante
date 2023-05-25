@@ -14,7 +14,7 @@ Construire une API sécurisée avec ses models, controllers et routes. Les utili
 
 Node.js / Express.js / MongoDB
 
-## Pour faire fonctionner le projet, vous devez installer :
+## Pour faire fonctionner le projet vous devez installer :
 
 ### Backend
 
